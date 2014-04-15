@@ -1,4 +1,4 @@
 testGit
 =======
 
-Repo for testing Git
+Repo for testing and learning Git
